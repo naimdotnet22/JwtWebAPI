@@ -1,0 +1,5 @@
+ - asp.net core 6 web API app. 
+ - Without Database
+ - Using Microsoft Identity Framework Register Login and Get Token
+ - Implemented Passwrd Hash and Password Salt
+ - Dto, NonDto Implemented
